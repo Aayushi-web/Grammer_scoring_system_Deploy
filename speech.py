@@ -1,3 +1,7 @@
+pip install speech_recognition
+pip install language_tool_python
+
+
 import streamlit as st
 import speech_recognition as sr
 import language_tool_python
